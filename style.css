@@ -1,0 +1,26 @@
+body{
+    background-color: lightyellow;
+}
+
+#score{
+    font-size: 35px;
+    margin-left: 10px;
+}
+
+#timer{
+    font-size: 35px;
+    float: right;
+    margin-right: 10px;
+}
+
+#sketch_2_b_drawn{
+    color: black;
+}
+
+#show_sketch{
+    float: right;
+}
+
+p{
+    font-size: 35px;
+}
